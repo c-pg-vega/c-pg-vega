@@ -3,7 +3,7 @@ Hi there, I'm Christian Vega 👋
 I'm a Computer Science Engineer interested in Robotics and Back-End Development.
 About Me
 
-    🎓 Graduated with a degree in Computer Science Engineering
+    🎓 Graduating with a B.S degree in Computer Science Engineering
     🤖 Passionate about Robotics and how it can shape our future
     💻 Enjoy working on Back-End Development projects
     🌎 Love to learn about different cultures and languages
