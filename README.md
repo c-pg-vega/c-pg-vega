@@ -12,9 +12,9 @@ Skills
 
 Here are some of the technologies and tools I've worked with:
 
-    Programming languages: Java, Python, C++
+    Programming languages: Java, Python, C++, C, ARM Assembly
     Web development: HTML, CSS, JavaScript
-    Tools: Git, Visual Studio Code
+    Tools: Git, Visual Studio Code, STM IDE
 
 
 Contact Me
